@@ -12,15 +12,10 @@
   <div align="center">
     <table border="0">
       <tr>
-        <!-- Caja 1: Tecnologías que uso -->
+        <!-- Tecnologías que uso -->
         <td align="center">
           <h2>Technologies I Use</h2>
           <img width="250px" src="https://skillicons.dev/icons?i=html,js,css,mysql,php&perline=10" />
-        </td>
-        <!-- Caja 2: Lo que estoy aprendiendo -->
-        <td align="center">
-          <h2>Currently Learning</h2>
-          <img width="100px" src="https://skillicons.dev/icons?i=java,spring" alt="Java Logo" />
         </td>
       </tr>
     </table>
