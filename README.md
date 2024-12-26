@@ -30,7 +30,7 @@
 class AboutMe:
     user = 'Grinchuelo'
     real_name = 'Santino Green'
-    current_edu = 'I.P.E.T.Y M. Nº 257 "Dr. René Favaloro"'
+    education = 'Technical degree in programming (Graduated 2024)',
     hobbies = [
         'Drawing',
         'Listening to music',
