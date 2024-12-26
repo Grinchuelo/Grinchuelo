@@ -39,8 +39,8 @@ class AboutMe:
         'Programming'
     ]
     
-    def getProvince():
-        return Cordoba_Argentina()
+    def getCountry():
+        return 'Argentina'
 ```
 <hr>
-<p>Last edited on 17/11/2024</p>
+<p>Last edited on 26/12/2024</p>
