@@ -36,7 +36,7 @@
     nickName: 'Grin',
     realName: 'Santino Thomás Green',
     from: 'Argentina 🇦🇷',
-    education: 'Technical degree in programming (Graduated 2024)',
+    education: 'Programming technician (Graduated 2024)',
     hobbies: [
       'Drawing',
       'Playing the piano',
@@ -52,4 +52,4 @@
 </div>
 
 <hr>
-<p>Last edited on 21/06/2025</p>
+<p>Last edited on 22/06/2025</p>
