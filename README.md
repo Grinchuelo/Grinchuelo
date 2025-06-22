@@ -11,7 +11,7 @@
         <!-- Tecnologías que uso -->
         <td align="center">
           <h2>Technologies I Use</h2>
-          <img height="48px" src="https://skillicons.dev/icons?i=html,js,css,mysql,php,figma&perline=10" />
+          <img height="48px" src="https://skillicons.dev/icons?i=html,css,js,mysql,php,figma&perline=10" />
         </td>
         <td align="center">
           <h2>Learning</h2>
