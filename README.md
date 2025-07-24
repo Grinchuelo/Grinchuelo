@@ -1,7 +1,5 @@
 <div>
-  <div align="start">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&color=F6F5FF&center=true&vCenter=true&repeat=false&width=420&lines=Hey+there!👋+I'm+Grin+:﹚" alt="Typing SVG" /></a>
-  </div>
+  <h1>Hey there!👋 I'm Grin :)</h1>
   <p>I'm a web developer, currently learning the React + Node + Express stack. Hope to show you something cool soon!</p>
   <hr>
   
@@ -52,4 +50,4 @@
 </div>
 
 <hr>
-<p>Last edited on 22/06/2025</p>
+<p>Last edited on 24/07/2025</p>
