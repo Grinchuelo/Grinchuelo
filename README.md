@@ -20,7 +20,7 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00628c?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
-  <div class="toolsAndMore">
+  <div class="os">
     <img alt="Arch" src="https://img.shields.io/badge/Arch Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" />
     <img alt="Mint" src="https://img.shields.io/badge/Linux Mint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white" />
   </div>
