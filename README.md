@@ -1,24 +1,29 @@
 <div>
   <h1>Hey there!👋 I'm Grin :)</h1>
-  <p>I'm a web developer, currently learning the React + Node + Express stack. Hope to show you something cool soon!</p>
-  <hr>
-  
-  <div align="center">
-    <table border="0">
-      <tr>
-        <!-- Tecnologías que uso -->
-        <td align="center">
-          <h2>Technologies I Use</h2>
-          <img height="48px" src="https://skillicons.dev/icons?i=html,css,js,mysql,php,arch,figma&perline=10" />
-        </td>
-        <td align="center">
-          <h2>Learning</h2>
-          <img height="48px" src="https://skillicons.dev/icons?i=react,nodejs,express&perline=10" />
-        </td>
-      </tr>
-    </table>
+  <h2>Things I code with</h2>
+  <div class="frontend">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-F54927?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-07b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f8e100?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="React" src="https://img.shields.io/badge/React-04d6ff?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-f14e1c?style=for-the-badge&logo=figma&logoColor=white" />
   </div>
-  
+  <div class="backend">
+    <img alt="Node" src="https://img.shields.io/badge/NodeJS-82cc28?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Express" src="https://img.shields.io/badge/ExpressJS-fff?style=for-the-badge&logo=express&logoColor=black" />
+    <img alt="pnpm" src="https://img.shields.io/badge/pnpm-f9ac00?style=for-the-badge&logo=pnpm&logoColor=white" />
+    <img alt="php" src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white" />
+  </div>
+  <div class="db">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00628c?style=for-the-badge&logo=mysql&logoColor=white" />
+  </div>
+  <div class="toolsAndMore">
+    <img alt="Arch" src="https://img.shields.io/badge/Arch Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img alt="Mint" src="https://img.shields.io/badge/Linux Mint-86BE43?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  </div>
   <hr>
 </div>
 
@@ -35,13 +40,6 @@
     realName: 'Santino Thomás Green',
     from: 'Argentina 🇦🇷',
     education: 'Programming technician (Graduated 2024)',
-    hobbies: [
-      'Drawing',
-      'Playing the piano',
-      'Watching videos',
-      'Exercising',
-      'Reading'
-    ]
   }
 ```
 <div align="center">
@@ -50,4 +48,4 @@
 </div>
 
 <hr>
-<p>Last edited on 24/07/2025</p>
+<p>Last edited on 16/09/2025</p>
